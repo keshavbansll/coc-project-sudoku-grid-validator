@@ -1,7 +1,7 @@
 # Sudoku Grid Validator in C
 
 **Author:** Keshav Bansal  
-**Branch:** B.Tech CSE  
+**Branch:** CSE  
 **Section:** D  
 **Roll No:** CS-217
 
